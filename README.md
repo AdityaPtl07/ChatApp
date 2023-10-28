@@ -22,8 +22,8 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/CodeClause_Chat-Application-using-WebSockets.git
-   cd CodeClause_Chat-Application-using-WebSockets
+   git clone https://github.com/YourUsername/https://github.com/AdityaPtl07/ChatApp.git
+   cd ChatApp
 
 ## Usage
 1. Start the Node.js server:
