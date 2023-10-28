@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/https://github.com/AdityaPtl07/ChatApp.git
+   git clone https://github.com/YourUsername/ChatApp.git
    cd ChatApp
 
 ## Usage
