@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 1. Start the Node.js server:
 node app.js
 
-2. Open a web browser and navigate to http://localhost:3000 to access the chat application.
+2. Open a web browser and navigate to http://localhost:4000 to access the chat application.
 
 3. Enter your username and start chatting with others in real-time.
 
